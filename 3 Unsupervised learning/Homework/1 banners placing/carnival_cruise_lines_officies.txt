@@ -1,0 +1,7 @@
+latitude,longitude,city
+33.751277, -118.188740,Los Angeles
+25.867736, -80.324116,Miami
+51.503016, -0.075479,London
+52.378894, 4.885084,Amsterdam
+39.366487, 117.036146,Beijing
+-33.868457, 151.205134,Sydney
