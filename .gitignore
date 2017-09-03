@@ -1,4 +1,8 @@
-#tensorflow weights
+# Tensorflow weights
 *.npz
+
+# Lectures pdfs
 **/Lectures/
+
+# Other
 **/.ipynb_checkpoints/
