@@ -1,3 +1,4 @@
 #tensorflow weights
 *.npz
 **/Lectures/
+**/.ipynb_checkpoints/
