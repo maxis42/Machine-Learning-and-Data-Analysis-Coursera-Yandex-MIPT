@@ -1,6 +1,7 @@
 ## Machine Learning and Data Analysis Coursera Specialization from Yandex and MIPT (Специализация Машинное обучение и анализ данных)
 https://www.coursera.org/specializations/machine-learning-data-analysis
 
+___
 ***Please make homeworks by your own and look in this repository only when you've already done the assignments. Anyway, it is in your interests if you really whant to learn something.***
 ___
 
