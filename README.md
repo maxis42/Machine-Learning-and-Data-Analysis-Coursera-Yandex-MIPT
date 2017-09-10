@@ -28,4 +28,6 @@ ___
 * [Lectures notebooks](https://github.com/maxis42/ML-DA-Coursera-Yandex-MIPT/tree/master/5%20Data%20analysis%20applications/Lectures%20notebooks)
 * [Interesting resources](https://github.com/maxis42/ML-DA-Coursera-Yandex-MIPT/blob/master/5%20Data%20analysis%20applications/Interesting%20resources.docx)
 
-### 6 Data analysis project (Анализ данных: финальный проект)
+### [6 Data analysis project (Анализ данных: финальный проект)](https://github.com/maxis42/ML-DA-Coursera-Yandex-MIPT/tree/master/6%20Data%20analysis%20project)
+* [Web-user identification through webpage session tracking](https://github.com/maxis42/ML-DA-Coursera-Yandex-MIPT/tree/master/6%20Data%20analysis%20project/1%20Internet%20users%20pattern%20mining)
+* [NYC taxi time series prediction](https://github.com/maxis42/ML-DA-Coursera-Yandex-MIPT/tree/master/6%20Data%20analysis%20project/3%20NYC%20taxi%20time%20series%20prediction)
