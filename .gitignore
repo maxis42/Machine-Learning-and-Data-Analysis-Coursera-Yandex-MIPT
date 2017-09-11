@@ -7,6 +7,5 @@
 # Other
 **/.ipynb_checkpoints/
 
-# Capstone project data
-/6 Data analysis project/1 Internet users pattern mining/capstone_user_identification/
-/6 Data analysis project/1 Internet users pattern mining/cez13/
+# Capstone project datasets
+/6 Data analysis project/1 Internet users pattern mining/Dataset/
