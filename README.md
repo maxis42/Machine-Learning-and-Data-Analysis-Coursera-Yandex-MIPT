@@ -32,3 +32,5 @@ ___
 ### [6 Data analysis project (Анализ данных: финальный проект)](https://github.com/maxis42/ML-DA-Coursera-Yandex-MIPT/tree/master/6%20Data%20analysis%20project)
 * [Web-user identification through webpage session tracking](https://github.com/maxis42/ML-DA-Coursera-Yandex-MIPT/tree/master/6%20Data%20analysis%20project/1%20Internet%20users%20pattern%20mining)
 * NYC taxi time series prediction (planned to be done)
+
+### [Certificates (Сертификаты)](https://github.com/maxis42/ML-DA-Coursera-Yandex-MIPT/tree/master/Certificates)
