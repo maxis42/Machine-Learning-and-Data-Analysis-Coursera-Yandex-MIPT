@@ -2,7 +2,7 @@
 *.npz
 
 # Lectures pdfs
-**/Lectures/
+#**/Lectures/
 
 # Other
 **/.ipynb_checkpoints/
